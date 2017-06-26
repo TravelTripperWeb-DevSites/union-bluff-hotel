@@ -1,8 +1,8 @@
 {
-  "name": "2nd Image",
-  "image": { 
-    "url": "/assets/images/facility.jpg"
+  "name": "Room Photo",
+  "image": {
+    "url": "http://d31f902anbz5po.cloudfront.net/1043/110555_1_master.jpg"
   },
-  "order": 1,
+  "order": 2,
   "hidden": false
 }
